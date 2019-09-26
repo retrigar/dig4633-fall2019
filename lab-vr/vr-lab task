@@ -1,1 +1,6 @@
-task one picking up a bale of hey and bring it to a cow. task two take a hammer and strike a tree apples will fall from a tree
+task one picking up apples and carrying them on the nearby interactable, ther is one snap zone for each one.
+task two feeding the apples to a cow on the other side of the farm.
+
+cow assets from "Farm Animal Set" by Vertex Cat on the unity asset store.
+
+the intent of this was to gain experence in createing VR games and to learn to correctly setup and execute simple events.
